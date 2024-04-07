@@ -1,3 +1,2 @@
-# Mostrar Miniatura de un Video de YouTube en el Archivo READMED.md de un Repositorio de GitHub
+<iframe width="560" height="315" src="https://www.youtube.com/embed/9kZT8WSCRc4" frameborder="0" allowfullscreen></iframe>
 
-[![](https://markdown-videos.deta.dev/youtube/NarBox1LkYc)](https://youtu.be/NarBox1LkYc)
