@@ -1,11 +1,1 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-    <meta charset="UTF-8">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Reproductor de YouTube</title>
-</head>
-<body>
-    <iframe width="560" height="315" src="https://www.youtube.com/embed/9kZT8WSCRc4" frameborder="0" allowfullscreen></iframe>
-</body>
-</html>
+[![Video](https://img.youtube.com/vi/9kZT8WSCRc4/0.jpg)](https://www.youtube.com/watch?v=9kZT8WSCRc4)
