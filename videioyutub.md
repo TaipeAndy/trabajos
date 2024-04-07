@@ -1,1 +1,1 @@
-[![](https://markdown-videos.deta.dev/youtube/9kZT8WSCRc4)](https://youtu.be/9kZT8WSCRc4?si=EZk07ixpMqsc7I7a)
+[![](https://markdown-videos.deta.dev/youtube/9kZT8WSCRc4)](https://www.youtube.com/watch?v=9kZT8WSCRc4)
