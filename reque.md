@@ -10,4 +10,4 @@
 | Funcionales:|
 | - Poder acceder a las campañas propuestas. <br> - Tener a disposición todos los datos necesarios de la campaña. <br> - Permitir la comunicación entre el gestor de marketing y el equipo de marketing. |
 | No Funcionales:|        
-| -Fiabilidad: El sistema debe ser confiable y estar disponible en todo momento.  <br> -  Eficiencia: El sistema debe ser eficiente en la carga y presentación de datos. <br> - Escalabilidad: El sistema debe ser capaz de manejar un aumento en el número de campañas propuestas |
+| - Fiabilidad: El sistema debe ser confiable y estar disponible en todo momento.  <br> -  Eficiencia: El sistema debe ser eficiente en la carga y presentación de datos. <br> - Escalabilidad: El sistema debe ser capaz de manejar un aumento en el número de campañas propuestas |
